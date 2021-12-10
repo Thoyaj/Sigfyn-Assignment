@@ -35,4 +35,7 @@ if __name__=="__main__":
         arr.append(int(input()))
     MergeSort(arr)
     PrintArr(arr)
+# Time Complexity: O(n*logn)
+# Space Complexity: O(n)
+
 
